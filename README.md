@@ -1,4 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/igarizio/encavi_visualization/master)
+[![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/igarizio/projects/encavi-visualization)
 
 # Encavi visualization
 The following repository helps to visualize the ENCAVI results by region.
